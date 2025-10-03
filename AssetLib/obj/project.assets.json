@@ -8,23 +8,23 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Koen.Samyn\\.nuget\\packages\\": {},
+    "C:\\Users\\ineho\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\data\\projects\\ComputeShadersTutorial\\AssetLib\\AssetLib.csproj",
+      "projectUniqueName": "D:\\DAE\\masterclasses\\ComputeShadersTutorial\\AssetLib\\AssetLib.csproj",
       "projectName": "AssetLib",
-      "projectPath": "C:\\data\\projects\\ComputeShadersTutorial\\AssetLib\\AssetLib.csproj",
-      "packagesPath": "C:\\Users\\Koen.Samyn\\.nuget\\packages\\",
-      "outputPath": "C:\\data\\projects\\ComputeShadersTutorial\\AssetLib\\obj\\",
+      "projectPath": "D:\\DAE\\masterclasses\\ComputeShadersTutorial\\AssetLib\\AssetLib.csproj",
+      "packagesPath": "C:\\Users\\ineho\\.nuget\\packages\\",
+      "outputPath": "D:\\DAE\\masterclasses\\ComputeShadersTutorial\\AssetLib\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Koen.Samyn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ineho\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -33,7 +33,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -73,7 +72,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

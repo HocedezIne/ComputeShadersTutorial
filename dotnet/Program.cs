@@ -22,11 +22,11 @@ namespace ComputeShaderTutorial
             //Project08 window = new Project08("Sphere scene with bounces", 1024,1024);
             //Project10 window = new Project10("Reduce: Max ", 20000, 0.1f, 1000.0f);
             //Project11 window = new Project11("Map function", 256 * 10);
-            // window.Run();
+            window.Run();
             //HandsOn02 console = new HandsOn02();
             //HandsOn03 console = new HandsOn03("Raytracer",512,512); // ray tracer 
             //HandsOn04 console = new HandsOn03("Raytracer - Spheres",512,512); // ray tracer 
-            console.Run();
+            //console.Run();
 
 
         }

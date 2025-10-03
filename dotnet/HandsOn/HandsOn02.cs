@@ -22,6 +22,11 @@ namespace ComputeShaderTutorial.HandsOn
 
         protected override void Init()
         {
+            operand1Data = new ShaderStorageBufferObject<float>(1024);
+            operand2Data = new ShaderStorageBufferObject<float>(1024);
+            result = new ShaderStorageBufferObject<float>(1024);
+
+
         }
         protected override void Compute()
         {

@@ -15,5 +15,6 @@ private:
 	ShaderStorageBufferObject<GLfloat>  m_Operand1Data;
 	ShaderStorageBufferObject<GLfloat>  m_Operand2Data;
 	ShaderStorageBufferObject<GLfloat>  m_Result;
+
 	ComputeShader m_AddFloatsComputeShader;
 };
